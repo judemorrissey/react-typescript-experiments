@@ -1,9 +1,12 @@
+import Placeholder from './components/Placeholder';
+
 import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
+      <Placeholder />
       <header className="App-header">
         <img alt="logo" className="App-logo" src={logo} />
         <p>
