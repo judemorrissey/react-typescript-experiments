@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "esbenp.prettier-vscode",
+        "dbaeumer.vscode-eslint",
+        "wmaurer.change-case",
+        "apollographql.vscode-apollo"
+    ]
+}
