@@ -19,7 +19,7 @@
     "scope": "typescriptreact",
     "prefix": "react-component",
     "body": [
-      "import './styles.css';",
+      "import './${TM_DIRECTORY/^.+[\\/\\\\]+(.*)$/$1/}.css';",
       "",
       "type Props = {};",
       "",

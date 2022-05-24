@@ -1,4 +1,4 @@
-import './styles.css';
+import './Placeholder.css';
 
 type Props = {};
 
